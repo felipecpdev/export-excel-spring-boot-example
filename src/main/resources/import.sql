@@ -1,0 +1,2 @@
+INSERT INTO posts (id,title, content, author,date_created) VALUES (1, 'Título del post 1', 'Contenido del post 1', 'Autor del post','2023-08-24T23:41:41');
+INSERT INTO posts (id,title, content, author,date_created) VALUES (2, 'Título del post 2', 'Contenido del post 2', 'Autor del post 2','2023-08-24T23:42:55');
